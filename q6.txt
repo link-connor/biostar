@@ -1,0 +1,2 @@
+6. Having analyzed this GFF file, does it seem like a complete and well-annotated organism?
+This appears to be a very complete and well-annotated organism. This reasoning primarily comes down to two major observations: (1) All of the feature types in the 3rd column are labelled, with know unknown types, and (2) Column 9, which contains annotated attributes, is very well defined in most of the features.

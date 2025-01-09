@@ -1,0 +1,11 @@
+5. What are the top-ten most annotated feature types (column 3) across the genome?
+386156	exon
+356023	CDS
+65082	biological_region
+27488	mRNA
+21684	five_prime_UTR
+15003	gene
+13504	three_prime_UTR
+7258	lnc_RNA
+4965	ncRNA_gene
+1675	region

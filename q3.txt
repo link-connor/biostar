@@ -1,0 +1,2 @@
+3. How many sequence regions (chromosomes) does the file contain?
+There are a total of 65082 features with a type of biological_region and 1675 with a type of region. According to the SOFA ontology, biological_region is a parent of chromosomes and region is a parent of biological_region. Therefore, there are a total of 66757 regions within the file.
