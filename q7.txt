@@ -1,2 +1,0 @@
-7. Share any other insights you might note.
-While I do not have much insight to offer regarding the details of the genome, I had an interesting observation while learning more about the SOFA ontology and how it applies to this file. Since biological_region is a child of region, it is interesting to see them both used - and not a more descriptive identifier as well. I think this is likely due to the inability to further classify it with a more specific type, however, I hope to learn more about possible reasons throughout this course.
