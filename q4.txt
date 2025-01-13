@@ -1,2 +1,0 @@
-4. How many genes are listed for this organism?
-There are 15003 features with the type of gene
